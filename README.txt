@@ -4,8 +4,8 @@ This project involves developing a predictive model for the final sale price of 
 
 Authors and Affiliation
 Marc Dalmau Guamis – 1710713
-
 Alejandro Flores Hernández – 1709458 
+
 Universitat Autònoma de Barcelona (UAB) – Course: Machine Learning – Group 07
 
 Project Structure
